@@ -1,8 +1,9 @@
 # Hi there I'm Stiven Castillo 👋
-I'm developer and designer. Passionate about technology and design, speaker and active participant of the communities in the city (Cali - Colombia). Able to work in awesome projects.
+I'm (backend and frontend) developer and designer. Passionate about technology and design. speaker and active participant of the communities in the city (Cali - Colombia). Able to work in awesome projects.
 
 - 🔭 I’m currently working at LaManicusrista App
 - 🌱 I’m currently learning about UX and UI
+
 
 Follow me:
 [Web](https://www.stiven.dev/) [Twitter](https://www.twitter.com/bacabange) [Dribbble](https://www.dribbble.com/bacabange)
