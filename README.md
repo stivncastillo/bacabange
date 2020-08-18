@@ -1,5 +1,5 @@
 # Hi there I'm Stiven Castillo 👋
-I'm (backend and frontend) developer and designer. Passionate about technology and design. speaker and active participant of the communities in the city (Cali - Colombia). Able to work in awesome projects.
+I'm (back-end and front-end) Developer and UI Designer. Passionate about technology and design. speaker and active participant of the communities in the city (Cali - Colombia). Able to work in awesome projects.
 
 <h3>Things I code with</h3>
 
@@ -13,7 +13,9 @@ I'm (backend and frontend) developer and designer. Passionate about technology a
 <a href="https://www.stiven.dev/" target="_blank"><img alt="Web" src="https://img.shields.io/badge/web-040d04.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
 
 - 🔭 I’m currently working at Swapps
-- 🌱 I’m currently learning about UX and UI
+- 🌱 I’m currently learning about UX and UI / Django / Nextjs
+- I'm tattoo artist, followme on instagram as @mecastasis
+- I love Play soccer
 
 
 <!--
