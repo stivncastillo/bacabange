@@ -12,7 +12,7 @@ I'm (backend and frontend) developer and designer. Passionate about technology a
 <a href="https://dribbble.com/bacabange" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/dribbble-ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 <a href="https://www.stiven.dev/" target="_blank"><img alt="Web" src="https://img.shields.io/badge/web-040d04.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
 
-- 🔭 I’m currently working at LaManicusrista App
+- 🔭 I’m currently working at Swapps
 - 🌱 I’m currently learning about UX and UI
 
 
